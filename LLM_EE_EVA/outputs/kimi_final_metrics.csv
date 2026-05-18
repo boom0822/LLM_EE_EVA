@@ -1,0 +1,2 @@
+model,precision,recall,f1,valid_samples,empty_samples,total_samples
+kimi,0.78955078125,0.8105263157894737,0.7999010635666586,1832,168,2000

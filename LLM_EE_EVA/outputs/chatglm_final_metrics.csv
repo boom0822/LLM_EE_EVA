@@ -1,0 +1,2 @@
+model,precision,recall,f1,valid_samples,empty_samples,total_samples
+chatglm,0.7716981132075472,0.8,0.7855942376950781,1881,119,2000

@@ -1,0 +1,2 @@
+model,precision,recall,f1,valid_samples,empty_samples,total_samples
+qwen,0.8097165991902834,0.8254716981132075,0.8175182481751824,1544,456,2000
